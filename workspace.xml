@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a3a215e-b452-4ff7-87e4-d19f28098f00" name="Default Changelist" comment="" />
+    <list default="true" id="3377055a-0588-42f6-abf1-8e3bfa2d4caa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/lib/calculator_brain.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/calculator_brain.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/input_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/input_page.dart" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1hghWGpJUdaougRGcWTluSu3Kji" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hghkM6h6ZLTIwA6uCfCc8znFUJ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,21 +21,34 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../destini_again" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7a3a215e-b452-4ff7-87e4-d19f28098f00" name="Default Changelist" comment="" />
-      <created>1600438674690</created>
+      <changelist id="3377055a-0588-42f6-abf1-8e3bfa2d4caa" name="Default Changelist" comment="" />
+      <created>1600438784834</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1600438674690</updated>
+      <updated>1600438784834</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="110" key="FileChooserDialogImpl" timestamp="1600442021768">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="110" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1600442021768" />
   </component>
 </project>
