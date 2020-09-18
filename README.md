@@ -1,5 +1,4 @@
-# Launch Screen Assets
+# Pregnancy BMI Calculator
 
-You can customize the launch screen with your own desired assets by replacing the image files in this directory.
+Hey! the main purpose of this app is that womens in pregnancy can take out their Body-Mass Index with respect to their on-going month and will get suggestions or their better health and they can track their BMI from that date to other consecutive intervals..
 
-You can also do it by opening your Flutter project's Xcode project with `open ios/Runner.xcworkspace`, selecting `Runner/Assets.xcassets` in the Project Navigator and dropping in the desired images.
